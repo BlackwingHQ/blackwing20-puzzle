@@ -44,6 +44,6 @@ On Windows, use [Rufus](https://rufus.ie/) or [balenaEtcher](https://etcher.bale
 
 The floppy is bootable in any PC emulator. The USB image is a plain FAT filesystem and can be mounted directly to browse its contents.
 
-Have fun.
+Have fun!
 
 — Blackwing Crew
